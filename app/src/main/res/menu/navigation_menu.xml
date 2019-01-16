@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id ="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item android:id ="@+id/nav_stream"
+        android:title="BIO Stream"
+        android:icon="@drawable/ic_assignment_black_24dp"/>
+
+    <item android:id ="@+id/nav_feedback"
+        android:title="Feed Back"
+        android:icon="@drawable/ic_feedback_black_24dp"/>
+
+    <item android:id ="@+id/nav_result"
+        android:title="Results"
+        android:icon="@drawable/ic_question_answer_black_24dp"/>
+
+    <item android:id ="@+id/nav_exit"
+        android:title="Exit"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+
+</menu>

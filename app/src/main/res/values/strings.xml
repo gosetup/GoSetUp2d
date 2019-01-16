@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">GoSetUp2</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="me">Me</string>
+    <string name="a_level_exam_papers">A/Level Exam Papers</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+
+
+    <string-array name="Stream">
+        <item>Biological Science stream</item>
+        <item>Physical Science stream </item>
+        <item>Commerce stream</item>
+        <item>Arts stream</item>
+        <item>Technology stream</item>
+        <item>OTHERS</item>
+    </string-array>
+
+    <string-array name="Subject1">
+        <item>Combined mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Information Technology</item>
+        <item>Biology (Botany and Zoology)</item>
+        <item>Agricultural science </item>
+        <item>Accounting </item>
+        <item>Business Studies</item>
+        <item>Economics</item>
+        <item>Engineering Technology  </item>
+        <item> Bio-system Technology </item>
+        <item> Science for Technology </item>
+        <item> Logic </item>
+        <item> Business Statistics </item>
+        <item> Geography </item>
+        <item>	Political Science</item>
+        <item>Dancing Drama and Theatre</item>
+        <item> History</item>
+        <item> 	Home Economics</item>
+        <item>Others</item>
+
+    </string-array>
+
+    <string-array name="Subject2">
+        <item>Combined mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Information Technology</item>
+        <item>Biology (Botany and Zoology)</item>
+        <item>Agricultural science </item>
+        <item>Accounting </item>
+        <item>Business Studies</item>
+        <item>Economics</item>
+        <item>Engineering Technology  </item>
+        <item> Bio-system Technology </item>
+        <item> Science for Technology </item>
+        <item> Logic </item>
+        <item> Business Statistics </item>
+        <item> Geography </item>
+        <item>	Political Science</item>
+        <item>Dancing Drama and Theatre</item>
+        <item> History</item>
+        <item> 	Home Economics</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Subject3">
+        <item>Combined mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Information Technology</item>
+        <item>Biology (Botany and Zoology)</item>
+        <item>Agricultural science </item>
+        <item>Accounting </item>
+        <item>Business Studies</item>
+        <item>Economics</item>
+        <item>Engineering Technology  </item>
+        <item> Bio-system Technology </item>
+        <item> Science for Technology </item>
+        <item> Logic </item>
+        <item> Business Statistics </item>
+        <item> Geography </item>
+        <item>	Political Science</item>
+        <item>Dancing Drama and Theatre</item>
+        <item> History</item>
+        <item> 	Home Economics</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Specialization">
+        <item>Combined mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Information Technology</item>
+        <item>Biology (Botany and Zoology)</item>
+        <item>Agricultural science </item>
+        <item>Accounting </item>
+        <item>Business Studies</item>
+        <item>Economics</item>
+        <item>Engineering Technology  </item>
+        <item> Bio-system Technology </item>
+        <item> Science for Technology </item>
+        <item> Logic </item>
+        <item> Business Statistics </item>
+        <item> Geography </item>
+        <item>Political Science</item>
+        <item>Dancing Drama and Theatre</item>
+        <item>History</item>
+        <item>Home Economics</item>
+        <item>Others</item>
+    </string-array>
+    <string name="title_activity_home2">Home2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

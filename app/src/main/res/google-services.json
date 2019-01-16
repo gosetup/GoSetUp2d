@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "156055261715",
+    "firebase_url": "https://gosetupapp.firebaseio.com",
+    "project_id": "gosetupapp",
+    "storage_bucket": "gosetupapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156055261715:android:610878370f5999d0",
+        "android_client_info": {
+          "package_name": "com.example.adoni.gosetup2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156055261715-g58r2bkfjor6a7s76dmdgeiphqhm3r8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWfHTTVxhIukiGoLj7XcsoJMpUFA_s5LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.adoni.gosetup2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FirstPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Home"
+            android:parentActivityName=".LogIn">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LogIn" />
+
+            <intent-filter>
+                <action android:name="com.example.adoni.gosetup2.Home" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Register"
+            android:parentActivityName=".SecondPage">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SecondPage" />
+
+            <intent-filter>
+                <action android:name="com.example.adoni.gosetup2.Register" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TeacherReg"
+            android:parentActivityName=".SecondPage">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SecondPage" />
+
+            <intent-filter>
+                <action android:name="com.example.adoni.gosetup2.TeacherReg" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LogIn" />
+        <activity
+            android:name=".SecondPage"
+            android:parentActivityName=".FirstPage">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".FirstPage" />
+
+            <intent-filter>
+                <action android:name="com.example.adoni.gosetup2.SecondPage" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ForgotPassword" />
+        <activity
+            android:name=".Home2"
+            android:label="@string/title_activity_home2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".TeacherLogin" />
+        <activity android:name=".SecondPage2"></activity>
+    </application>
+
+</manifest>
